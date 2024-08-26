@@ -158,13 +158,14 @@ header{
     color:#48BFF7;
     font-family: "Gwendolyn", cursive;
 }
-/* .heading h2{
+
+.heading h2{
     font-size: 3rem;
     font-weight: 700;
     position: relative;
-    top:90px;
+    top:60px;
     z-index: 99;
-} */
+}
 
 .heading h2{
     font-size: 2rem;
@@ -172,6 +173,10 @@ header{
 .sub_heading{
     color:white;
     /* margin-top: 1rem; */
+}
+.s1{
+    position: relative;
+    top:4rem;
 }
 .cab{
     position: relative;
@@ -309,9 +314,11 @@ header{
         font-weight: 600;
 
     }
-    .heading h1{
-        font-size: 3rem;
+     .heading h2{
+        font-size: 2rem;
         font-weight: 700;
+        position: relative;
+        top:10px;
     }
     .about-container{
         grid-template-columns: 1fr;
