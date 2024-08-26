@@ -762,6 +762,12 @@ header{
     .text h1{
         font-size: 2.5rem;
     }
+ .ride{
+        height: 110vh;
+    }
+    .heading .our{
+        font-size: 2rem;
+    }
     .home{
         grid-template-columns: 1fr;
     }
