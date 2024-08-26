@@ -23,7 +23,7 @@ window.addEventListener('scroll', function() {
 
 
 function openWhatsApp(query) {
-    var number = "+919597954928"; // replace with the desired WhatsApp number
+    var number = "+919629568371"; // replace with the desired WhatsApp number
     var message = query; // replace with the desired message
     var url = "https://wa.me/" + number + "/?text=" + encodeURIComponent(message);
     // window.location.href = url;
