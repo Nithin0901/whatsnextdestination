@@ -823,6 +823,7 @@ header{
     }
     .heading h1{
         font-size: 1.3rem;
+        font-weight:700;
     }
     .about-container{
         grid-template-columns: 1fr;
